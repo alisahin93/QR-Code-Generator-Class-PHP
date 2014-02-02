@@ -11,30 +11,30 @@ $qr = new qRClas();
 </pre>
 New QR Create 
 ===========================
-1 ) Text 
-2 ) Size ( 500x500 ) 
-3 ) Charset ( Default UTF-8 ) 
+1 ) Text <br/>
+2 ) Size ( 500x500 ) <br/>
+3 ) Charset ( Default UTF-8 ) <br/>
 <pre>
 $qr->qRCreate("TEXT", "SİZExSİZE","Charset");
 </pre>
 
 SMS QR Code Create 
 ===========================
-1 ) COUNTRY CODE
+1 ) COUNTRY CODE<br/>
 2 ) area code
-3 ) Phone
-4 ) size x size ( 500x500 )  
-5 ) Text 
+3 ) Phone <br/>
+4 ) size x size ( 500x500 )  <br/>
+5 ) Text <br/>
 <pre>
 $qr->smsQr("COUNTRY CODE","area code","Phone","SizeXSize","TEXT");
 </pre>
 
 Mobile QR Code Create 
 ===========================
-1 ) COUNTRY CODE
-2 ) area code
-3 ) Phone
-4 ) size x size ( 500x500 ) 
+1 ) COUNTRY CODE<br/>
+2 ) area code<br/>
+3 ) Phone <br/>
+4 ) size x size ( 500x500 )  <br/>
 <pre>
 $qr->telQr("COUNTRY CODE","area code","Phone","SizeXSize");
 </pre>
@@ -57,4 +57,5 @@ echo "<img src='$url'/>";
 Contact
 ===========================
 http://fb.com/savascan.altun
+<br/>
 http://savascanaltun.com
