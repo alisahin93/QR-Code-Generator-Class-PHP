@@ -49,7 +49,9 @@ $url=$qr->url;
 <img> Testing
 
 $url=$qr->url;
+<pre>
 echo "<img src='$url'/>";
+</pre>
 
 
 
