@@ -54,6 +54,10 @@ $url=$qr->url;
 echo "<img src='$url'/>";
 </pre>
 
+Demo
+===========================
+http://www.savascanaltun.com/ornekler/php/qrcreator/demo.php
+
 Contact
 ===========================
 http://fb.com/savascan.altun
