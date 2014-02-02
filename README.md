@@ -54,4 +54,7 @@ $url=$qr->url;
 echo "<img src='$url'/>";
 </pre>
 
-
+Contact
+===========================
+http://fb.com/savascan.altun
+http://savascanaltun.com
