@@ -1,6 +1,5 @@
-QR-Code-Generator-Class-PHP
+PHP QR Code Generator 
 ===========================
-
 PHP QR Code Generator Class 
 
 Class ADD 
